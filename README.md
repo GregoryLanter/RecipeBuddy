@@ -14,3 +14,5 @@ The images returned from the API will be displayed using a slick.js carousel.
 The user can click on the picture in the carousel and select a recipe to be included in the shopping list. The user can select one or more recipes, as many as suits thier needs.
 ## Build a List
 A shopping list comprised of the ingredients from all the selected recipes will be built. It can be displayed on the users mobile device so they can check off items as they get them in the store. 
+
+https://gregorylanter.github.io/RecipeBuddy/
